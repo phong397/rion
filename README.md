@@ -1,7 +1,9 @@
-# Eliza 🤖
+# Rion 🤖
+
+Rion, also known as the Exile, is a memory character in NieR Reincarnation.
 
 <div align="center">
-  <img src="./docs/static/img/eliza_banner.jpg" alt="Eliza Banner" width="100%" />
+  ![banner](https://github.com/user-attachments/assets/409ff83f-2eef-4af5-841c-66be9a7e2636)
 </div>
 
 <div align="center">
