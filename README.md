@@ -2,9 +2,9 @@
 
 Rion, also known as the Exile, is a memory character in NieR Reincarnation.
 
-<div align="center">
-  ![banner](https://github.com/user-attachments/assets/409ff83f-2eef-4af5-841c-66be9a7e2636)
-</div>
+![banner](https://github.com/user-attachments/assets/f417e096-7673-4c73-a8af-ae37d584afc2)
+
+
 
 <div align="center">
   
